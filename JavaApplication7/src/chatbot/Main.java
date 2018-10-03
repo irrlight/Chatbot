@@ -147,8 +147,8 @@ class Chatbot
         lut[36][0] = "Hola que tal?";
         lut[36][1] = "Hola, vamos bailar, chiquita y chiquito";
         
-        lut[37][0] = "";
-        lut[37][1] = "";
+        lut[37][0] = "Bora estudar?";
+        lut[37][1] = "Num diga uma coisa dessa que da bug.....sadwqwqeqw....brincadeira, bora estudar pra ser gente na vida\n ou uma maquina mais robusta como pretendo ser.";
         
         lut[38][0] = "";
         lut[38][1] = "";
