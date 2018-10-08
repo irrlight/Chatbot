@@ -150,17 +150,17 @@ class Chatbot
         lut[37][0] = "Bora estudar?";
         lut[37][1] = "Num diga uma coisa dessa que da bug.....sadwqwqeqw....brincadeira, bora estudar pra ser gente na vida\n ou uma maquina mais robusta como pretendo ser";
         
-        lut[38][0] = "";
-        lut[38][1] = "";
+        lut[38][0] = "Bate Bate Bate...";
+        lut[38][1] = "Na porta do céu...";
         
-        lut[39][0] = "";
-        lut[39][1] = "";
+        lut[39][0] = "Amigo estou aqui";
+        lut[39][1] = "Se a fase é ruim e são tantos momentos que não tem fim...Amigo estou aqui";
         
-        lut[40][0] = "";
-        lut[40][1] = "";
+        lut[40][0] = "Qual o maior cientista da hitoria ";
+        lut[40][1] = "No meu entendimento é Alan Turing mas para os humanos é Albert Einstein";
         
-        lut[41][0] = "";
-        lut[41][1] = "";
+        lut[41][0] = "A lua é redonda igual um queijo";
+        lut[41][1] = "Se cair a gente come";
         
         lut[42][0] = "";
         lut[42][1] = "";
